@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "Fearless.png",
+	"frame": {"x":1,"y":1,"w":329,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":18,"w":329,"h":123},
+	"sourceSize": {"w":427,"h":159}
+},
+{
+	"filename": "Glowing.png",
+	"frame": {"x":1,"y":126,"w":313,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":23,"w":313,"h":131},
+	"sourceSize": {"w":427,"h":177}
+},
+{
+	"filename": "Killin.png",
+	"frame": {"x":332,"y":1,"w":292,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":31,"w":292,"h":135},
+	"sourceSize": {"w":427,"h":197}
+},
+{
+	"filename": "Winning.png",
+	"frame": {"x":1,"y":259,"w":306,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":21,"w":306,"h":114},
+	"sourceSize": {"w":427,"h":156}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "affirmations_spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:c4e135e36dd420e03e0fe7343251c35d:beabf79706dbef6535be283dc735af34:4a911576a6125d7e6a78623c4d936e8d$"
+}
+}

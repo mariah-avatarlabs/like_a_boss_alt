@@ -1,0 +1,29 @@
+{"frames": [
+
+{
+	"filename": "Glitter_00013.png",
+	"frame": {"x":1,"y":1,"w":500,"h":814},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":814},
+	"sourceSize": {"w":500,"h":814}
+},
+{
+	"filename": "Glitter_00015.png",
+	"frame": {"x":503,"y":1,"w":500,"h":814},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":814},
+	"sourceSize": {"w":500,"h":814}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "glitter_ss_3.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "0.25",
+	"related_multi_packs": [ "glitter_ss_0.json", "glitter_ss_1.json", "glitter_ss_2.json", "glitter_ss_4.json", "glitter_ss_5.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:503566abaaeb9e4f8fa15d168ea4c1f4:46dda94e3bd171ea4b4df1a42c8d3fc5:5863b487d3490de50c062599968b43f1$"
+}
+}

@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "affirmations_sized-fearless.png",
+	"frame": {"x":1,"y":1,"w":232,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":26,"w":232,"h":87},
+	"sourceSize": {"w":300,"h":139}
+},
+{
+	"filename": "affirmations_sized-glowing.png",
+	"frame": {"x":1,"y":90,"w":221,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":23,"w":221,"h":93},
+	"sourceSize": {"w":300,"h":139}
+},
+{
+	"filename": "affirmations_sized-killinit.png",
+	"frame": {"x":1,"y":268,"w":205,"h":96},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":22,"w":205,"h":96},
+	"sourceSize": {"w":300,"h":139}
+},
+{
+	"filename": "affirmations_sized-winning.png",
+	"frame": {"x":1,"y":185,"w":217,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":29,"w":217,"h":81},
+	"sourceSize": {"w":300,"h":139}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "affirmations_spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8bebdc8f27065bd0288c23004786767b:cb18f8a67632b7cd286c156cfb5529b1:4a911576a6125d7e6a78623c4d936e8d$"
+}
+}

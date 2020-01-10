@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "Glitter_00021.png",
+	"frame": {"x":1,"y":1,"w":300,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":488},
+	"sourceSize": {"w":300,"h":488}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "glitter_ss_2.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "0.15",
+	"related_multi_packs": [ "glitter_ss_0.json", "glitter_ss_1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:2a504d9388ce838db884997d30247d62:46dda94e3bd171ea4b4df1a42c8d3fc5:609da3332583049acf62a0aaa31cdf1e$"
+}
+}

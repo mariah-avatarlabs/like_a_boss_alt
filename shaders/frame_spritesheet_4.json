@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "_frame_00008.png",
+	"frame": {"x":1,"y":1,"w":261,"h":518},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":32,"w":261,"h":518},
+	"sourceSize": {"w":350,"h":570}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "frame_spritesheet_4.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "frame_spritesheet_0.json", "frame_spritesheet_1.json", "frame_spritesheet_2.json", "frame_spritesheet_3.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:1d8851959b701c7f09e09fafb831a2de:203d41f49729809ed00391b1f6c5126d:0a210bdd6e3c0ea8624430bc8c998eae$"
+}
+}
